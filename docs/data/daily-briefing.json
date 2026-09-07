@@ -1,48 +1,44 @@
 {
- "generated": "2026-09-04T16:44:47.704253+00:00",
+ "generated": "2026-09-07T18:05:13.208071+00:00",
  "model": "claude-sonnet-4-6",
  "sectors": {
   "oil": {
-   "summary": "Crude pulled back modestly on the session \u2014 WTI -0.78% to $90.57, Brent -0.19% to $95.34 \u2014 but the weekly picture remains explosive, with WTI up 8.62% and Brent up 6.75% as the US-Iran conflict dominates sentiment. US strikes on Iran and Iranian tanker attacks in the Strait of Hormuz drove the bulk of this week's war premium, with WTI briefly touching $91.80 intraday Thursday. The distillates complex is the standout outlier: US diesel hit an all-time record, surpassing 2022 highs, as middle distillate cracks surged on tightening global supply; RBOB, however, bucked the trend with a +1.41% session gain. Ukraine's continued strikes on Russian refinery infrastructure are redirecting Russian crude processing offshore, adding a secondary supply disruption layer. VP Vance's comments that Hormuz flows are near pre-war levels offered modest relief. Rosneft's CEO meanwhile argued China's buying behavior, not OPEC policy, is the true price anchor.",
+   "summary": "Crude markets are consolidating today's flat print after an extraordinary month-long rally \u2014 WTI at $91.48/bbl (+17% m/m) and Brent at $96.28/bbl (+15% m/m) \u2014 driven squarely by Middle East war risk. The Houthi strike on Saudi Aramco's 400,000 b/d Jizan refinery and the U.S. military strike on three Iranian oil tankers following ballistic missile attacks on U.S. warships have kept a sharp geopolitical premium in the market. Goldman Sachs warns prices could reach $120/bbl if shipping disruptions intensify. India's average crude import cost has already crossed $100/bbl, squeezing downstream margins. Chinese import demand rebounding from decade-lows is adding a demand-side bid, lifting Atlantic Basin and African crudes. RBOB gasoline notably bucked the trend, off 6.5% on the week despite crude strength.",
    "drivers": [
-    "US-Iran military escalation and Strait of Hormuz tanker attacks sustaining a significant geopolitical war premium across crude benchmarks",
-    "Middle distillate crunch: US diesel at all-time record highs, refining cracks surging on tightening global supply exacerbated by Ukraine strikes on Russian refineries",
-    "China's crude purchasing cited as the dominant market stabilizer, with options markets pricing a 77.26% probability of an OPEC cut at the next meeting"
+    "Houthi attack on Jizan refinery and U.S. strikes on Iranian tankers driving sustained supply-disruption premium",
+    "Goldman Sachs flags $120/bbl upside scenario if Red Sea and Gulf shipping risks escalate further",
+    "China crude import demand rebound from decade-low adding demand-side support to non-Middle Eastern grades"
    ],
    "headlineCount": 12,
    "sources": [
-    "Al Arabiya English",
-    "Arise News",
-    "Business Upturn",
-    "Crude Oil Prices Today | OilPrice.com",
-    "CryptoRank",
-    "Pluang"
+    "ABC News - Breaking News, Latest News and Videos",
+    "DD News",
+    "Observer Voice",
+    "PBS",
+    "The Sunday Guardian"
    ]
   },
   "gas": {
-   "summary": "Natural gas markets extended their gains on both sides of the Atlantic. Henry Hub edged up 1.24% on the day to $2.949/MMBtu, posting an 11.70% monthly advance. TTF outperformed sharply, adding 0.91% to \u20ac72.465/MWh and heading for a fourth consecutive weekly gain of 8.19%, with the monthly surge reaching nearly 30%. The primary driver is the Iran conflict's shadow over LNG flows through the Persian Gulf; European prices are pricing in reduced LNG availability despite ADNOC confirming it continues loading cargoes. A former Ukrainian official publicly stated the Iran war matters 'significantly more' to gas prices than the Ukraine conflict, pushing back on US Treasury Secretary Bessent's framing. On the supply-side policy front, the UK is poised to approve the Jackdaw North Sea gas field, while a Russian sanctions bill reportedly stalled in US Congress partly over concern about gas price impacts.",
+   "summary": "Natural gas markets are signalling significant stress, particularly in Europe where TTF has surged nearly 30% over the past month to \u20ac71.95/MWh. Henry Hub is more subdued at $2.975/MMBtu, though it has gained 11.8% on the month. The most actionable headline today is Bloomberg's report that Qatar has moved six empty LNG tankers toward the Gulf, suggesting QatarEnergy may be preparing to restart loadings \u2014 a development that, if confirmed, would represent meaningful relief for global LNG supply that has been constrained amid the broader Middle East conflict. Elevated LNG prices are already weighing on Indian downstream margins. News-flow for the U.S. domestic gas market is thin today.",
    "drivers": [
-    "Iran conflict raising LNG supply-route risk through the Persian Gulf, driving TTF to a fourth straight weekly gain despite ADNOC continuing to load cargoes",
-    "European gas (TTF) surging ~30% month-on-month as markets price in sustained Middle East disruption risk and tighter LNG availability",
-    "UK Jackdaw North Sea gas field approval expected before month-end, offering a medium-term supply relief signal; US Russia sanctions bill stalled partly on gas price concerns"
+    "TTF up nearly 30% month-on-month as Middle East conflict curtails Gulf LNG supply flows",
+    "Six empty LNG carriers moving toward Qatar signal potential imminent restart of QatarEnergy loadings",
+    "Elevated LNG prices compressing marketing margins for Indian gas importers"
    ],
-   "headlineCount": 7,
-   "sources": [
-    "The New Voice of Ukraine",
-    "moneywise.com"
-   ]
+   "headlineCount": 4,
+   "sources": []
   },
   "power": {
-   "summary": "The power and carbon complex was comparatively quiet today. EU EUAs ticked up just 0.04% to $79.83/EUA, with a modest 1.56% weekly gain and 3.52% monthly move \u2014 subdued relative to the volatility in gas and oil. The principal cross-market pressure point remains TTF, which feeds directly into continental power generation costs, but EUA prices are not yet reflecting the gas spike with the same intensity. On the policy front, India announced a plan to mandate battery storage at new solar and wind projects from July 2027, a structurally significant clean-power signal for the world's third-largest energy consumer. The US diesel record and broader Middle East supply squeeze are deepening the fossil fuel cost environment, but headline carbon data provided limited new information today. News flow for this sector was thin on direct power market catalysts.",
+   "summary": "EU Carbon EUAs edged up 0.95% on the day to $80.59/EUA, the only sector instrument posting a live intraday move, and are up 3.8% on the month \u2014 a modest gain relative to the sharp moves in underlying fossil fuel inputs. The key power-sector stress story today is India, where the Ministry of Power has directed coal companies to ramp up rail deliveries to plants with critically low stockpiles. Iran's public warning that Gulf energy infrastructure is 'on notice' in response to U.S. strikes introduces tail risk for regional power generation capacity. Uzbekistan's reported scaling-back of nuclear cooperation with Russia adds a longer-dated supply-security dimension. The carbon market appears to be absorbing the broader energy shock gradually rather than repricing sharply.",
    "drivers": [
-    "EU EUAs broadly stable despite surging TTF gas prices, suggesting carbon market has not yet fully repriced the gas-driven generation cost shock",
-    "India mandating battery storage for solar and wind projects from July 2027, a significant long-term policy driver for storage demand and renewable integration",
-    "Broader Middle East conflict escalation deepening fossil fuel cost pressures, with record US diesel prices underscoring a tightening global fuel supply environment"
+    "India ramping coal deliveries by rail as power plant stockpiles drop to critically low levels",
+    "Iran explicitly warns Gulf energy sites are targets, raising tail risk for regional power infrastructure",
+    "EU EUAs rising modestly as elevated TTF gas prices shift dispatch economics toward coal in European power mix"
    ],
    "headlineCount": 6,
    "sources": [
-    "The Economic Times",
-    "theguardian.com"
+    "DD News",
+    "News18"
    ]
   }
  }
