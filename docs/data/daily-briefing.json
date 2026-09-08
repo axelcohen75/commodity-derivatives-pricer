@@ -1,38 +1,38 @@
 {
- "generated": "2026-09-08T17:03:29.076494+00:00",
+ "generated": "2026-09-08T22:20:42.136065+00:00",
  "model": "claude-sonnet-4-6",
  "sectors": {
   "oil": {
-   "summary": "Crude markets extended their blistering monthly rally\u2014WTI +17.9% and Brent +16.4% over 30 days\u2014with Brent pressing toward the $100 threshold at $97.23 as of settlement. The dominant driver remains Middle East risk: Iran has threatened fresh economic warfare and missile strikes, Houthis attacked Saudi energy sites forcing temporary operational halts in the southern border region, and Hormuz tensions persist even as Kuwait partially rerouted exports back to roughly 1 million bpd. China's crude buying rebounded for a second consecutive month in August, with fuel exports jumping 29%, removing a key demand cushion that had previously capped prices. The US temporarily eased Russia sanctions in a bid to cool prices, though the measure has riled European allies. RBOB gasoline cratered 4.96% on the day\u2014a notable divergence\u2014while heating oil held firm (+0.55%) as a diesel supply crunch is forecast to last through winter on refinery capacity shortfalls.",
+   "summary": "Crude is on the doorstep of triple digits after a blistering session: Brent settled at $99.49/bbl (+3.33%) and WTI at $94.32/bbl (+3.12%), extending a month-long surge of roughly 19-21%. The newsflow is unambiguously bullish on the supply side \u2014 Houthi attacks on Saudi Arabia, U.S. strikes on Iranian tankers, and Iran threatening fresh 'economic warfare' are keeping the geopolitical risk premium elevated. China's oil buying rebound is adding demand-side fuel. Offsetting factors are nascent and slow-moving: Washington has reportedly eased Russia sanctions temporarily to cool prices (angering European allies), Chevron is targeting a 600,000 bbl/day Venezuelan expansion over five years, and Uganda is set to begin exports in early 2027. RBOB gasoline bucked the move sharply lower (-3.49% on the day), suggesting some demand softness at the pump even as distillates and crude push higher.",
    "drivers": [
-    "Houthi attacks on Saudi energy facilities and persistent Hormuz tensions pushing Brent toward $100",
-    "China crude import rebound for second consecutive month adding renewed demand pressure",
-    "Global diesel/heating oil supply crunch expected to persist through winter due to refinery capacity gaps"
+    "Middle East escalation \u2014 Houthi attacks on Saudi Arabia, U.S. strikes on Iranian tankers, and Iran's missile/economic warfare threats sustaining a large geopolitical risk premium",
+    "China demand rebound supporting the push toward $100 Brent, with Suez Canal tanker traffic up 42% YoY in July signalling rerouted but recovering flows",
+    "Temporary U.S. easing of Russia oil sanctions and long-dated supply additions (Chevron Venezuela, Uganda 2027) provide only modest near-term bearish offset"
    ],
    "headlineCount": 12,
    "sources": [
     "EnergyNow",
-    "RBC-Ukraine",
-    "Tech Times",
-    "The Straits Times"
+    "GMA Network",
+    "Mshale",
+    "Tech Times"
    ]
   },
   "gas": {
-   "summary": "European gas markets were the standout mover today, with TTF surging 6.60% on the day to \u20ac76.7/MWh\u2014up nearly 10% on the week and an extraordinary 38% over the past month. The Middle East supply shock is spilling directly into European gas pricing, compounding an already fraught winter storage race. Germany's gas storage association has warned of shortage risk this winter if temperatures fall below recent norms, adding urgency to the buying. Henry Hub, by contrast, fell 3.26% to $2.878/MMBtu, reflecting a continued US-Europe pricing divergence driven by differing supply-demand dynamics. The headline data for LNG-specific flows or storage fill rates is limited in today's feed, but the direction of travel on the continent is unambiguously tighter.",
+   "summary": "European gas markets are the standout mover today, with TTF surging 6.60% to \u20ac76.7/MWh \u2014 up nearly 38% over the past month \u2014 as the Middle East supply shock collides with the pre-winter storage race. Headlines confirm European benchmark prices jumped on sustained supply disruption fears linked to the wider regional crisis, with storage filling competing against tightening LNG availability. Henry Hub, by contrast, drifted lower, settling at $2.901/MMBtu (-2.49% on the day), keeping the Atlantic price spread wide and underlining divergent U.S. vs. European fundamentals. On the regulatory front, a D.C. federal appeals panel appeared inclined to uphold the capital's natural gas restrictions in certain new buildings, a modest long-run demand headwind for U.S. gas. News flow on the gas sector itself is relatively thin beyond the TTF/Middle East nexus.",
    "drivers": [
-    "Middle East supply shock driving TTF to multi-month highs, up 38% in one month",
-    "Germany's storage association warning of winter shortage risk if temperatures undershoot expectations",
-    "Sharp US-Europe gas price divergence: Henry Hub -3.26% on the day vs TTF +6.60%"
+    "European winter storage race intensifying against a backdrop of Middle East-driven LNG supply uncertainty, propelling TTF to \u20ac76.7/MWh (+38% in a month)",
+    "U.S. Henry Hub sliding (-2.49%) on domestic supply resilience, widening the transatlantic spread and highlighting bifurcated market dynamics",
+    "D.C. federal appeals court appearing sympathetic to municipal natural gas restrictions \u2014 incremental regulatory headwind for long-run U.S. gas demand"
    ],
-   "headlineCount": 5,
+   "headlineCount": 7,
    "sources": []
   },
   "power": {
-   "summary": "EU carbon allowances (EUA) added 1.67% to $81.165/EUA, extending a steady month of gains (+4.55%), as the broader energy tightness narrative\u2014amplified by the TTF spike\u2014raises the cost of gas-fired generation and supports carbon pricing. Vitol's CEO characterized global fuel markets as \"tight and inflexible\" despite higher Persian Gulf flows, a characterization that maps directly onto European power cost pressures. A headline noting Germany's power grid as a potential NATO vulnerability underscores longer-term structural concerns for grid resilience and investment. A US-Saudi nuclear cooperation deal cleared a Vienna procedural hurdle, though it remains under Congressional review and offers no near-term supply relief. The power-sector specific data flow today is relatively thin; the primary pricing signals are being transmitted through the TTF channel and the broader geopolitical risk premium.",
+   "summary": "EU carbon (EUA) edged up 1.67% to $81.17/EUA on the day, posting a more measured +4.55% gain over the past month relative to the explosive moves in the underlying gas market. With TTF surging 38% in a month and now sitting at \u20ac76.7/MWh, power generation economics in Europe are under acute pressure, as higher gas prices lift marginal cost of electricity and incentivise carbon-intensive coal switching \u2014 a dynamic that would typically push EUAs higher. The U.S.-Saudi nuclear cooperation deal clearing a Vienna procedural hurdle is a longer-dated story with no immediate market impact. UK sanctions on Russia's Transneft, reported yesterday, add to the broader tightening in Russian energy flows. News flow specific to European power pricing and grid dynamics is limited today beyond the gas pass-through story.",
    "drivers": [
-    "TTF surge (+6.60% on the day, +38% monthly) lifting gas-fired generation costs and supporting EUA prices",
-    "Vitol CEO flagging global fuel markets as 'tight and inflexible,' reinforcing the risk-premium backdrop",
-    "Germany grid resilience concerns and US-Saudi nuclear deal in Congress review as longer-term structural factors"
+    "TTF's 38% monthly surge feeding into European power generation costs, supporting EUA prices via coal-switching incentives as gas-fired generation becomes more expensive",
+    "UK sanctions on Russia's Transneft compounding supply concerns for European energy infrastructure and supporting the broader energy complex",
+    "U.S.-Saudi nuclear cooperation deal advancing through review \u2014 no near-term market impact but a watch item for long-run power generation mix"
    ],
    "headlineCount": 5,
    "sources": [
