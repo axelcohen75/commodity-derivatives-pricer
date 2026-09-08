@@ -1,44 +1,42 @@
 {
- "generated": "2026-09-07T18:05:13.208071+00:00",
+ "generated": "2026-09-08T17:03:29.076494+00:00",
  "model": "claude-sonnet-4-6",
  "sectors": {
   "oil": {
-   "summary": "Crude markets are consolidating today's flat print after an extraordinary month-long rally \u2014 WTI at $91.48/bbl (+17% m/m) and Brent at $96.28/bbl (+15% m/m) \u2014 driven squarely by Middle East war risk. The Houthi strike on Saudi Aramco's 400,000 b/d Jizan refinery and the U.S. military strike on three Iranian oil tankers following ballistic missile attacks on U.S. warships have kept a sharp geopolitical premium in the market. Goldman Sachs warns prices could reach $120/bbl if shipping disruptions intensify. India's average crude import cost has already crossed $100/bbl, squeezing downstream margins. Chinese import demand rebounding from decade-lows is adding a demand-side bid, lifting Atlantic Basin and African crudes. RBOB gasoline notably bucked the trend, off 6.5% on the week despite crude strength.",
+   "summary": "Crude markets extended their blistering monthly rally\u2014WTI +17.9% and Brent +16.4% over 30 days\u2014with Brent pressing toward the $100 threshold at $97.23 as of settlement. The dominant driver remains Middle East risk: Iran has threatened fresh economic warfare and missile strikes, Houthis attacked Saudi energy sites forcing temporary operational halts in the southern border region, and Hormuz tensions persist even as Kuwait partially rerouted exports back to roughly 1 million bpd. China's crude buying rebounded for a second consecutive month in August, with fuel exports jumping 29%, removing a key demand cushion that had previously capped prices. The US temporarily eased Russia sanctions in a bid to cool prices, though the measure has riled European allies. RBOB gasoline cratered 4.96% on the day\u2014a notable divergence\u2014while heating oil held firm (+0.55%) as a diesel supply crunch is forecast to last through winter on refinery capacity shortfalls.",
    "drivers": [
-    "Houthi attack on Jizan refinery and U.S. strikes on Iranian tankers driving sustained supply-disruption premium",
-    "Goldman Sachs flags $120/bbl upside scenario if Red Sea and Gulf shipping risks escalate further",
-    "China crude import demand rebound from decade-low adding demand-side support to non-Middle Eastern grades"
+    "Houthi attacks on Saudi energy facilities and persistent Hormuz tensions pushing Brent toward $100",
+    "China crude import rebound for second consecutive month adding renewed demand pressure",
+    "Global diesel/heating oil supply crunch expected to persist through winter due to refinery capacity gaps"
    ],
    "headlineCount": 12,
    "sources": [
-    "ABC News - Breaking News, Latest News and Videos",
-    "DD News",
-    "Observer Voice",
-    "PBS",
-    "The Sunday Guardian"
+    "EnergyNow",
+    "RBC-Ukraine",
+    "Tech Times",
+    "The Straits Times"
    ]
   },
   "gas": {
-   "summary": "Natural gas markets are signalling significant stress, particularly in Europe where TTF has surged nearly 30% over the past month to \u20ac71.95/MWh. Henry Hub is more subdued at $2.975/MMBtu, though it has gained 11.8% on the month. The most actionable headline today is Bloomberg's report that Qatar has moved six empty LNG tankers toward the Gulf, suggesting QatarEnergy may be preparing to restart loadings \u2014 a development that, if confirmed, would represent meaningful relief for global LNG supply that has been constrained amid the broader Middle East conflict. Elevated LNG prices are already weighing on Indian downstream margins. News-flow for the U.S. domestic gas market is thin today.",
+   "summary": "European gas markets were the standout mover today, with TTF surging 6.60% on the day to \u20ac76.7/MWh\u2014up nearly 10% on the week and an extraordinary 38% over the past month. The Middle East supply shock is spilling directly into European gas pricing, compounding an already fraught winter storage race. Germany's gas storage association has warned of shortage risk this winter if temperatures fall below recent norms, adding urgency to the buying. Henry Hub, by contrast, fell 3.26% to $2.878/MMBtu, reflecting a continued US-Europe pricing divergence driven by differing supply-demand dynamics. The headline data for LNG-specific flows or storage fill rates is limited in today's feed, but the direction of travel on the continent is unambiguously tighter.",
    "drivers": [
-    "TTF up nearly 30% month-on-month as Middle East conflict curtails Gulf LNG supply flows",
-    "Six empty LNG carriers moving toward Qatar signal potential imminent restart of QatarEnergy loadings",
-    "Elevated LNG prices compressing marketing margins for Indian gas importers"
+    "Middle East supply shock driving TTF to multi-month highs, up 38% in one month",
+    "Germany's storage association warning of winter shortage risk if temperatures undershoot expectations",
+    "Sharp US-Europe gas price divergence: Henry Hub -3.26% on the day vs TTF +6.60%"
    ],
-   "headlineCount": 4,
+   "headlineCount": 5,
    "sources": []
   },
   "power": {
-   "summary": "EU Carbon EUAs edged up 0.95% on the day to $80.59/EUA, the only sector instrument posting a live intraday move, and are up 3.8% on the month \u2014 a modest gain relative to the sharp moves in underlying fossil fuel inputs. The key power-sector stress story today is India, where the Ministry of Power has directed coal companies to ramp up rail deliveries to plants with critically low stockpiles. Iran's public warning that Gulf energy infrastructure is 'on notice' in response to U.S. strikes introduces tail risk for regional power generation capacity. Uzbekistan's reported scaling-back of nuclear cooperation with Russia adds a longer-dated supply-security dimension. The carbon market appears to be absorbing the broader energy shock gradually rather than repricing sharply.",
+   "summary": "EU carbon allowances (EUA) added 1.67% to $81.165/EUA, extending a steady month of gains (+4.55%), as the broader energy tightness narrative\u2014amplified by the TTF spike\u2014raises the cost of gas-fired generation and supports carbon pricing. Vitol's CEO characterized global fuel markets as \"tight and inflexible\" despite higher Persian Gulf flows, a characterization that maps directly onto European power cost pressures. A headline noting Germany's power grid as a potential NATO vulnerability underscores longer-term structural concerns for grid resilience and investment. A US-Saudi nuclear cooperation deal cleared a Vienna procedural hurdle, though it remains under Congressional review and offers no near-term supply relief. The power-sector specific data flow today is relatively thin; the primary pricing signals are being transmitted through the TTF channel and the broader geopolitical risk premium.",
    "drivers": [
-    "India ramping coal deliveries by rail as power plant stockpiles drop to critically low levels",
-    "Iran explicitly warns Gulf energy sites are targets, raising tail risk for regional power infrastructure",
-    "EU EUAs rising modestly as elevated TTF gas prices shift dispatch economics toward coal in European power mix"
+    "TTF surge (+6.60% on the day, +38% monthly) lifting gas-fired generation costs and supporting EUA prices",
+    "Vitol CEO flagging global fuel markets as 'tight and inflexible,' reinforcing the risk-premium backdrop",
+    "Germany grid resilience concerns and US-Saudi nuclear deal in Congress review as longer-term structural factors"
    ],
-   "headlineCount": 6,
+   "headlineCount": 5,
    "sources": [
-    "DD News",
-    "News18"
+    "DD News"
    ]
   }
  }
