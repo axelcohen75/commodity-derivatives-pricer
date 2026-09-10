@@ -1,45 +1,48 @@
 {
- "generated": "2026-09-09T22:13:02.190035+00:00",
+ "generated": "2026-09-10T16:53:39.549602+00:00",
  "model": "claude-sonnet-4-6",
  "sectors": {
   "oil": {
-   "summary": "Crude surged Wednesday, with WTI closing at $96.84 (+4.14%) and Brent breaching $101 (+4.04%), extending a sharp month-long rally of roughly 16-18%. The dominant driver is Middle East risk: Iran is threatening an exclusion zone near the Strait of Hormuz, Houthis struck Saudi Arabia, and the Iran-US confrontation is widening. Ukraine's drone strike on Russia's key Novorossiysk terminal added a fresh supply-disruption premium, while API data showed a modest 300,000-barrel draw in US crude stocks. A temporary US easing of Russia oil sanctions provided some offset but clearly failed to cap prices. Heating oil outperformed (+5.0%), reflecting distillate tightness amid Russia's refining crisis. RBOB gasoline was the notable outlier, falling 5.8%, suggesting demand-side weakness or seasonal factors. Sinopec's forecast of an 8.9% drop in Chinese oil demand in 2026 is a significant bearish signal that the market appears to be discounting for now.",
+   "summary": "WTI surged through the psychologically critical $100/bbl level, settling at $101.67 (+5.86%), while Brent followed at $106.98 (+5.70%), extending a month-long rally of roughly 20-22%. The primary catalyst is an escalating U.S.-Iran tanker conflict in the Strait of Hormuz, with the U.S. striking Iranian oil tankers and Iran responding with threats of economic warfare and missile action while the Houthis simultaneously attacked Saudi Arabia. Tanker rates hit record highs as operators reprice Middle East routing risk. A draw of 400,000 barrels in U.S. crude inventories for the week ending September 4 provided an additional supportive signal. HSBC raised its full-year 2026 Brent forecast to $90, still well below spot, suggesting further analyst upgrades may follow. RBOB gasoline was the odd one out, slipping 1.07% on the day despite the crude surge.",
    "drivers": [
-    "Strait of Hormuz exclusion-zone threat from Iran and Houthi strikes on Saudi Arabia driving a sharp geopolitical risk premium into crude",
-    "Ukrainian drone strike on Novorossiysk, Russia's key Black Sea oil terminal, tightening distillate supply and lifting heating oil 5%",
-    "Bearish demand counter-weight: Sinopec projects China oil demand to fall 8.9% in 2026, though the market is currently prioritising supply-risk headlines"
+    "U.S.-Iran tanker strikes escalating in Strait of Hormuz, sharply tightening seaborne crude supply routes",
+    "U.S. crude inventory draw of 400,000 barrels for the week ending September 4 reinforces tight physical market",
+    "Record tanker freight rates and Iran's threat of further economic warfare sustaining geopolitical risk premium"
    ],
    "headlineCount": 12,
    "sources": [
-    "EnergyNow",
+    "DD News",
     "GMA Network",
     "Mshale",
     "Tech Times",
-    "The Siasat Daily",
-    "inkl"
+    "World Socialist Web Site",
+    "irishsun.com"
    ]
   },
   "gas": {
-   "summary": "US and European gas markets diverged sharply today. Henry Hub slid to $2.809/MMBtu (-3.74%), extending a weekly loss of 3.3%, with thin supportive headlines domestically \u2014 news flow for North American gas fundamentals was limited in today's feed. European TTF told the opposite story, jumping 4.12% on the day to \u20ac78.965/MWh, up 9.3% on the week and nearly 30% over the past month. The TTF rally is consistent with broader European energy stress linked to the Russia-Ukraine conflict, Russia's ongoing refining crisis, and growing concerns about storage and supply security flagged by the negative-power-price piece highlighting Europe's inadequate storage infrastructure. The Angola Block 15 discovery by ExxonMobil is a longer-dated supply positive but has no near-term price relevance.",
+   "summary": "TTF rallied 3.43% on the day to \u20ac81.965/MWh, building on a punishing 39.55% one-month run as two distinct supply-side shocks compounded each other. Ukrainian drones struck two Russian gas facilities approximately 3,200 km inside Russian territory in a record-setting deep strike on Arctic gas infrastructure, raising fresh questions about Russian export capacity. Simultaneously, the Strait of Hormuz crisis continues to choke LNG flows, with the IEA flagging that soaring LNG prices are forcing economies toward coal as a substitute, pushing global coal demand toward record highs. Australia softened its domestic gas reservation rules for LNG exporters, a marginal supply-side concession. Permian basin gas remains structurally oversupplied locally\u2014negative-value days totaling 118 this year\u2014underscoring the stark bifurcation between U.S. basin prices and elevated international benchmarks.",
    "drivers": [
-    "TTF surging ~30% in a month, driven by European supply insecurity amid escalating Russia-Ukraine conflict and Russian supply disruptions",
-    "Henry Hub under pressure, falling 3.7% on the day with no bullish domestic catalyst evident in today's news flow",
-    "Europe's inadequate energy storage capacity flagged as a structural risk, reinforcing upside pressure on TTF through the coming months"
+    "Ukrainian drone strike on two Russian Arctic gas facilities at record 3,200 km range threatens Russian export supply",
+    "Hormuz LNG disruption driving global gas prices sharply higher, pushing coal substitution per IEA",
+    "Australia easing domestic gas reservation rules for LNG exporters, offering modest relief on the margin"
    ],
-   "headlineCount": 3,
-   "sources": []
+   "headlineCount": 9,
+   "sources": [
+    "Al Jazeera",
+    "Kyiv Post",
+    "The Kyiv Independent"
+   ]
   },
   "power": {
-   "summary": "EU carbon allowances edged up modestly to $80.585/EUA (+0.95%), with a steady month-long grind higher of 3.8%. The key story in power today is the structural tension between surging TTF gas prices (+4.1% today, +30% in a month) \u2014 which raises generation costs for gas-fired plants and supports EUA demand \u2014 and the simultaneous phenomenon of negative power prices accumulating across Europe, underscoring a mismatch between renewable intermittency and storage capacity. In AI-driven demand news, Google committed at least \u20ac13 billion to Finnish infrastructure and signed a 22-year nuclear PPA, a landmark signal for long-dated clean power demand. In California, a heat wave is stressing the grid with surging power demand. UK sanctions on Russia's Transneft add another layer of energy supply uncertainty for European power markets.",
+   "summary": "EU carbon EUAs edged up a modest 0.48% to $81.555/EUA, with the one-month gain of 4.68% appearing restrained relative to the explosive moves in the underlying fuel complex. The dominant cross-market pressure point is TTF at \u20ac81.965/MWh (+39.55% over the month), which is structurally bearish for gas-fired power economics and is accelerating coal-to-gas switching in reverse, per the IEA. The methane emissions headline flags a widening global divide in abatement progress, a longer-term carbon market structural factor. Chevron's planned Permian power plant signals that stranded basin gas may find an outlet in behind-the-meter generation rather than pipeline flows. Overall, the carbon complex is notably calm relative to the fuel shock; thin headline flow here limits deeper analysis.",
    "drivers": [
-    "Soaring TTF gas prices (+30% in a month) elevating thermal generation costs and lending support to EU carbon allowances",
-    "Google's \u20ac13 billion Finnish AI infrastructure investment and 22-year nuclear PPA highlights large-scale, long-tenor clean power demand emerging from the tech sector",
-    "Structural contradiction in European power: negative electricity prices accumulating alongside a gas price spike, exposing critical gaps in grid storage capacity"
+    "TTF at \u20ac81.965/MWh (+39.55% one month) compressing gas-fired power margins and incentivising coal burn, mildly supportive for EUAs",
+    "IEA warning of record coal demand as LNG supply tightens could lift medium-term carbon compliance demand",
+    "Widening global divide in methane abatement progress adding uncertainty to long-run carbon market trajectory"
    ],
-   "headlineCount": 6,
+   "headlineCount": 4,
    "sources": [
-    "Kompas.id",
-    "ddnews.gov.in"
+    "DD News"
    ]
   }
  }
