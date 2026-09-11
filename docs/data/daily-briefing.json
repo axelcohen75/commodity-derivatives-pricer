@@ -1,48 +1,46 @@
 {
- "generated": "2026-09-10T16:53:39.549602+00:00",
+ "generated": "2026-09-11T16:53:41.901344+00:00",
  "model": "claude-sonnet-4-6",
  "sectors": {
   "oil": {
-   "summary": "WTI surged through the psychologically critical $100/bbl level, settling at $101.67 (+5.86%), while Brent followed at $106.98 (+5.70%), extending a month-long rally of roughly 20-22%. The primary catalyst is an escalating U.S.-Iran tanker conflict in the Strait of Hormuz, with the U.S. striking Iranian oil tankers and Iran responding with threats of economic warfare and missile action while the Houthis simultaneously attacked Saudi Arabia. Tanker rates hit record highs as operators reprice Middle East routing risk. A draw of 400,000 barrels in U.S. crude inventories for the week ending September 4 provided an additional supportive signal. HSBC raised its full-year 2026 Brent forecast to $90, still well below spot, suggesting further analyst upgrades may follow. RBOB gasoline was the odd one out, slipping 1.07% on the day despite the crude surge.",
+   "summary": "Crude pulled back sharply on Friday after a blistering weekly run, with WTI settling just below $100 (-2.55%) and Brent at $105.06 (-2.42%), yet both benchmarks remain up roughly 9-10% on the week and nearly 20% on the month. The selloff looks technical after WTI tagged an intraday high above $101 earlier in the session. The macro bid stays firmly intact: Houthi strikes are threatening Saudi Arabia's oil export bypass infrastructure, the U.S. military destroyed five Iranian tankers following attacks on a Navy warship, and Ukraine drone strikes are materially degrading Russian refining capacity per the IEA. RBC Capital's Helima Croft flagged a path to $120 Brent if the Middle East conflict persists. RBOB gasoline's outsized -7.31% drop stands out and may reflect end-of-driving-season demand seasonality.",
    "drivers": [
-    "U.S.-Iran tanker strikes escalating in Strait of Hormuz, sharply tightening seaborne crude supply routes",
-    "U.S. crude inventory draw of 400,000 barrels for the week ending September 4 reinforces tight physical market",
-    "Record tanker freight rates and Iran's threat of further economic warfare sustaining geopolitical risk premium"
+    "Houthi strikes targeting Saudi oil export infrastructure and U.S.-Iran naval exchanges raising Hormuz/supply disruption risk",
+    "IEA confirms Ukraine drone strikes are degrading Russian refining capacity, tightening global refined product supply",
+    "Sharp RBOB gasoline selloff (-7.31%) diverges from crude, suggesting seasonal demand weakness at the pump even as flat-price crude risk premium holds"
    ],
    "headlineCount": 12,
    "sources": [
-    "DD News",
-    "GMA Network",
-    "Mshale",
-    "Tech Times",
-    "World Socialist Web Site",
-    "irishsun.com"
+    "Ajker Patrika",
+    "Bloomberg.com",
+    "IraqiNews",
+    "NPR",
+    "Radio Free Europe/Radio Liberty",
+    "Yahoo News UK"
    ]
   },
   "gas": {
-   "summary": "TTF rallied 3.43% on the day to \u20ac81.965/MWh, building on a punishing 39.55% one-month run as two distinct supply-side shocks compounded each other. Ukrainian drones struck two Russian gas facilities approximately 3,200 km inside Russian territory in a record-setting deep strike on Arctic gas infrastructure, raising fresh questions about Russian export capacity. Simultaneously, the Strait of Hormuz crisis continues to choke LNG flows, with the IEA flagging that soaring LNG prices are forcing economies toward coal as a substitute, pushing global coal demand toward record highs. Australia softened its domestic gas reservation rules for LNG exporters, a marginal supply-side concession. Permian basin gas remains structurally oversupplied locally\u2014negative-value days totaling 118 this year\u2014underscoring the stark bifurcation between U.S. basin prices and elevated international benchmarks.",
+   "summary": "Natural gas price action today was divergent across regions. Henry Hub (NG) eased -0.88% to $2.809/MMBtu and is down 3.57% on the week, suggesting U.S. domestic fundamentals remain loose. European TTF, by contrast, dipped only -0.67% on the day but has surged 13.49% on the week and 33.56% over the past month to \u20ac81.5/MWh, reflecting tightened LNG availability amid the broader Middle East conflict backdrop. The sole U.S.-focused headline notes Jeff Currie calling for $5 gasoline before midterms and flagging diesel above $6/gallon nationally for the first time on record \u2014 a distillate squeeze with knock-on implications for gas-to-oil substitution. Headline flow for this sector is thin beyond that single data point.",
    "drivers": [
-    "Ukrainian drone strike on two Russian Arctic gas facilities at record 3,200 km range threatens Russian export supply",
-    "Hormuz LNG disruption driving global gas prices sharply higher, pushing coal substitution per IEA",
-    "Australia easing domestic gas reservation rules for LNG exporters, offering modest relief on the margin"
+    "Henry Hub remains pressured by domestic oversupply, falling 3.57% on the week despite geopolitical noise",
+    "European TTF has rallied 33.56% in a month, driven by Middle East supply risk squeezing global LNG flows",
+    "Jeff Currie's $5 gasoline / $6 diesel call signals broader energy cost pressure that could feed into industrial gas demand dynamics"
    ],
-   "headlineCount": 9,
-   "sources": [
-    "Al Jazeera",
-    "Kyiv Post",
-    "The Kyiv Independent"
-   ]
+   "headlineCount": 1,
+   "sources": []
   },
   "power": {
-   "summary": "EU carbon EUAs edged up a modest 0.48% to $81.555/EUA, with the one-month gain of 4.68% appearing restrained relative to the explosive moves in the underlying fuel complex. The dominant cross-market pressure point is TTF at \u20ac81.965/MWh (+39.55% over the month), which is structurally bearish for gas-fired power economics and is accelerating coal-to-gas switching in reverse, per the IEA. The methane emissions headline flags a widening global divide in abatement progress, a longer-term carbon market structural factor. Chevron's planned Permian power plant signals that stranded basin gas may find an outlet in behind-the-meter generation rather than pipeline flows. Overall, the carbon complex is notably calm relative to the fuel shock; thin headline flow here limits deeper analysis.",
+   "summary": "EU carbon (EUA) was effectively unchanged on the day (+0.11%) at \u20ac81.46/EUA, with a modest weekly gain of +2.85% and +4.16% on the month \u2014 a relatively subdued move given the turbulence in the underlying fuel complex. TTF's continued elevation at \u20ac81.5/MWh keeps gas-fired generation costs high, which should in principle support carbon prices as coal switches in at the margin. Two notable non-price developments: UK business groups formally called for removal of electricity bill taxes to restore competitiveness, and the UAE is reconsidering its planned 5-GW AI data center campus in Abu Dhabi after Iran targeted U.S. assets in the Gulf \u2014 a signal that Gulf power infrastructure investment is now directly exposed to escalation risk. Direct power-sector headline flow is otherwise thin today.",
    "drivers": [
-    "TTF at \u20ac81.965/MWh (+39.55% one month) compressing gas-fired power margins and incentivising coal burn, mildly supportive for EUAs",
-    "IEA warning of record coal demand as LNG supply tightens could lift medium-term carbon compliance demand",
-    "Widening global divide in methane abatement progress adding uncertainty to long-run carbon market trajectory"
+    "EUA carbon flat on the day; TTF at \u20ac81.5/MWh sustains high gas-fired generation costs and underpins carbon switch-in economics",
+    "UK business lobby pushes to eliminate electricity taxes, flagging industrial competitiveness concerns under elevated power prices",
+    "UAE pausing 5-GW AI campus plans signals Gulf escalation risk is beginning to disrupt large-scale power infrastructure investment decisions"
    ],
-   "headlineCount": 4,
+   "headlineCount": 6,
    "sources": [
-    "DD News"
+    "Radio Free Europe/Radio Liberty",
+    "South China Morning Post",
+    "bloomingbit"
    ]
   }
  }
